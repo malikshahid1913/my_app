@@ -17,5 +17,5 @@ if login:
     st.write(subject)
 
 st.divider()
-st.image(r"C:\Users\USER\Desktop\download.jpg")
+# st.image(r"C:\Users\USER\Desktop\download.jpg")
 st.image(os.path.join(os.getcwd(),"static","shahid_hamid.jpeg"))
